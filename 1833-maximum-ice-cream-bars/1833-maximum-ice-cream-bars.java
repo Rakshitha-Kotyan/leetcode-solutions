@@ -8,6 +8,8 @@ class Solution {
             if(coins >= costs[i]){
                 icecream++;
                 coins-=costs[i];
+            } else {
+                break;
             }
         }
       return icecream;  

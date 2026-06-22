@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -35,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

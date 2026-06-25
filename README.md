@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,6 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-
+        // FLOYDS CYCLE DETECTION
         int slow=nums[0];
         int fast=nums[0];
 

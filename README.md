@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |

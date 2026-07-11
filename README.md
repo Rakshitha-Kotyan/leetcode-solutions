@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

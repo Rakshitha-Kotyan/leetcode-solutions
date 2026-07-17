@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

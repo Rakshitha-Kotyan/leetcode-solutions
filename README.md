@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation

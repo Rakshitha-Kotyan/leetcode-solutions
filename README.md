@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0704-binary-search) |

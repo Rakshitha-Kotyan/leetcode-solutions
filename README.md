@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3340-check-balanced-string](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

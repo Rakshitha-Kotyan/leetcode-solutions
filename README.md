@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [1934-confirmation-rate](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1934-confirmation-rate) |
 ## String Matching
 |  |
 | ------- |

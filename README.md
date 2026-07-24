@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
@@ -291,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |

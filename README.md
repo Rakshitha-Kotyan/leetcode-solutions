@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0202-happy-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |

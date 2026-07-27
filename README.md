@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0619-biggest-single-number) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1527-patients-with-a-condition) |

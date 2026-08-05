@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1934-confirmation-rate](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String Matching
 |  |
 | ------- |

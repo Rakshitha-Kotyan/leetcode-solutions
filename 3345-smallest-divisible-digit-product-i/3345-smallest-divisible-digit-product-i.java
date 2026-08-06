@@ -8,7 +8,7 @@ class Solution {
             }
             n++;
         }
-        return ans;
+        return n;
     }
 
     public int digitProd(int n){
@@ -18,7 +18,6 @@ class Solution {
             prod*=digit;
             n=n/10;
         }
-        System.out.println(prod);
         return prod;
     }
 }

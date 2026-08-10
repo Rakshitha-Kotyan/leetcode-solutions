@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

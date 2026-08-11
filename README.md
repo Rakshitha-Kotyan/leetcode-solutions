@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String

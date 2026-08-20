@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rakshitha-Kotyan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
